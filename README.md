@@ -1,6 +1,6 @@
 # TicTacToe-Game
 A two-player console Tic-Tac-Toe game written in Python.
-How to Run and Play the Game
+# Tic-Tac-Toe Game Instructions
 
 Prerequisites
 
@@ -10,9 +10,8 @@ Execution Steps
 
 Download the Code: Clone this repository or download the ZIP file.
 
-git clone [https://github.com/YourUsername/Python-Tic-Tac-Toe.git](https://github.com/YourUsername/Python-Tic-Tac-Toe.git)
-cd Python-Tic-Tac-Toe
-
+git clone https://github.com/DigitalDistillation/TicTacToe-Game.git
+cd TicTacToe-Game
 
 Start the Game: The game will begin automatically because of the entry point in the code.
 
