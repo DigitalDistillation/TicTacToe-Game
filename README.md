@@ -10,9 +10,10 @@ Execution Steps
 
 Download the Code: Clone this repository or download the ZIP file.
 
+```
 git clone https://github.com/DigitalDistillation/TicTacToe-Game.git
-cd TicTacToe-Game
-
+cd TicTacToe-Game 
+```
 Start the Game: The game will begin automatically because of the entry point in the code.
 
 Using the Terminal: Run the main file directly from your command line:
